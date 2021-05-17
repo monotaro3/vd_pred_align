@@ -1,0 +1,7 @@
+process,E:/work/dataset/raw/COWCdataset/ground_truth_sets/Potsdam_ISPRS
+process,E:/work/dataset/raw/COWCdataset/ground_truth_sets/Selwyn_LINZ
+process,E:/work/dataset/raw/COWCdataset/ground_truth_sets/Toronto_ISPRS
+process,E:/work/dataset/raw/COWCdataset/ground_truth_sets/Utah_AGRC
+#save,E:/work/vehicle_detection_dataset/cowc_300px_0.3_daug_nmargin
+save,E:/work/dataset/experiments/vehicle_detection_dataset/cowc_300px_0.3_daug_nmargin_offset
+#sample_annotation,E:/work/dataset/raw/COCO/annotations/instances_val2014.json
